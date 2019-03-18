@@ -6,4 +6,4 @@ structure:
 
 # 重定向
 redirects:
-  previous/page: page/page.md
+  previous/page: README.md
