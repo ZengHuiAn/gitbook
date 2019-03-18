@@ -1,0 +1,9 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+# 重定向
+redirects:
+  previous/page: page/page.md
