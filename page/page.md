@@ -1,4 +1,4 @@
-# GetStartd
+# GetStarted
 
 
 
