@@ -1,6 +1,6 @@
 # 导航
 
-\* \[README\]\([README.md](README.md)\)
+\* 
 
 # 数据结构
 
