@@ -1,7 +1,7 @@
 # Summary
 
 * [README](README.md)
-* [page/page.md](/page/page.md)
+* [page.md](/page/page.md)
 
 
 
